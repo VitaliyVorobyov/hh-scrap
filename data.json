@@ -1,0 +1,122 @@
+[
+    {
+        "name": "ТехЛид / Tech Lead (Python, Django)",
+        "company": "ООО ФК ПУЛЬС",
+        "city": "Химки",
+        "salary": null
+    },
+    {
+        "name": "Разработчик Python",
+        "company": "ООО Инспектор Клауд",
+        "city": "Москва",
+        "salary": "от 120 000 до 200 000 ₽ на руки"
+    },
+    {
+        "name": "Python developer",
+        "company": "UBIC",
+        "city": "Москва",
+        "salary": null
+    },
+    {
+        "name": "Python разработчик (удаленно)",
+        "company": "StormWall™",
+        "city": "Москва",
+        "salary": null
+    },
+    {
+        "name": "Team lead Python",
+        "company": "Триафлай",
+        "city": "Москва",
+        "salary": "от 350 000 до 450 000 ₽ на руки"
+    },
+    {
+        "name": "Python Developer (Tools)",
+        "company": "Lesta Games",
+        "city": "Москва",
+        "salary": null
+    },
+    {
+        "name": "Software Developer Python",
+        "company": "ООО ВЕБ Инфраструктура",
+        "city": "Москва",
+        "salary": "от 80 000 до 200 000 ₽ на руки"
+    },
+    {
+        "name": "Middle Backend программист Python / Middle Python Backend Developer",
+        "company": "ИП Сембаев Андрей Абайевич",
+        "city": "Санкт-Петербург",
+        "salary": "от 150 000 ₽ на руки"
+    },
+    {
+        "name": "Программист-разработчик Python",
+        "company": "Красное & Белое, розничная сеть",
+        "city": "Москва",
+        "salary": null
+    },
+    {
+        "name": "Python (Django) Разработчик",
+        "company": "ИП Лихопой Илья Васильевич",
+        "city": "Москва",
+        "salary": null
+    },
+    {
+        "name": "Middle Python разработчик",
+        "company": "ООО Дивлаб",
+        "city": "Москва",
+        "salary": null
+    },
+    {
+        "name": "Старший бэкенд разработчик (Python, Go)",
+        "company": "Вкусно — и точка",
+        "city": "Москва",
+        "salary": null
+    },
+    {
+        "name": "Python developer (Middle+/Senior)",
+        "company": "Zonesmart LLC",
+        "city": "Москва",
+        "salary": "от 2 500 до 4 000 $ на руки"
+    },
+    {
+        "name": "Middle Python/Go разработчик",
+        "company": "amoCRM",
+        "city": "Москва",
+        "salary": "от 100 000 до 150 000 ₽ на руки"
+    },
+    {
+        "name": "Python Web Developer (Tanks Blitz)",
+        "company": "Lesta Games",
+        "city": "Москва",
+        "salary": null
+    },
+    {
+        "name": "Middle/Middle+ Backend Engineer (Python)",
+        "company": "ООО Платформа Сейлз Чейн",
+        "city": "Москва",
+        "salary": null
+    },
+    {
+        "name": "Разработчик Python (Middle/Senior)",
+        "company": "Eqvanta",
+        "city": "Санкт-Петербург",
+        "salary": null
+    },
+    {
+        "name": "Python разработчик",
+        "company": "Sapiens solutions",
+        "city": "Москва",
+        "salary": "от 250 000 до 350 000 ₽ на руки"
+    },
+    {
+        "name": "Руководитель разработки (ТехЛид) Python/Django",
+        "company": "Компания Самолет",
+        "city": "Москва",
+        "salary": null
+    },
+    {
+        "name": "Senior Backend Python/Django разработчик (Гибрид)",
+        "company": "ЧУ ДО Московская школа программистов",
+        "city": "Москва",
+        "salary": null
+    }
+]
